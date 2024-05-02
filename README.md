@@ -2,6 +2,14 @@
 
 Welcome to the repository for the Dice Roller App, a simple yet effective application designed as part of my [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course). This app simulates the action of rolling a dice with the tap of a button, perfect for demonstrating the integration of user interactions and state management in Android development.
 
+## Coursework Details
+
+The project is a personal Portfolio Development Option for:
+
+- **Course**: IN2015 Professional Development in IT
+- **Institution**: City, University of London
+- **Term**: Winter 2023
+
 ## Project Overview
 
 The Dice Roller App offers a minimalist interface that features a single button to 'roll' a dice. Each tap on the button results in a different dice image being displayed, corresponding to one of the six possible outcomes of a traditional dice roll. This project leverages Jetpack Compose to handle UI and state changes efficiently.

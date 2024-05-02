@@ -8,7 +8,9 @@ The Dice Roller App offers a minimalist interface that features a single button 
 
 ## App Screenshot
 
-![dice-roller-app](dice-roller-app.jpg)
+<p align="center">
+  <img src="dice-roller-app.jpg" alt="dice-roller-app" width="300"/>
+</p>
 
 This is a screenshot of the Dice Roller App. This image captures the app's clean and intuitive user interface, centered around the single button used for rolling the dice. Each tap on the button results in a different dice face appearing, showcasing the app's dynamic state management and responsive design. The simple yet effective UI exemplifies the app's functionality, providing a visual demonstration of how users interact with the application to simulate the rolling of a dice.
 
